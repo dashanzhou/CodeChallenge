@@ -1,0 +1,14 @@
+This is a code challenge to build simple application or web page to display a Lottery Draw and jackpot information.
+Languages selections: pick any one from C#, Angualar or React, if using C#, HTML can be server side rendering. 
+The application will need to connect web api endpoint:
+https://data.api.thelott.com/sales/vmax/web/data/lotto/luckylotteries/currentdraw
+or 
+https://data.api.thelott.com/sales/vmax/web/data/lotto/opendraws
+to get the lotto draw data and jackpot data, then display the OZlotto, Gold Lotto and Powerball.
+The information display requires to at least have Lottery product display name, 
+logo image, draw date, draw number and jackpack value (Div1Amount). 
+
+The code needs to committed into your github account with a bit readme document. 
+
+
+
