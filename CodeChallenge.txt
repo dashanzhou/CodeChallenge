@@ -1,5 +1,5 @@
 This is a code challenge to build simple application or web page to display a Lottery Draw and jackpot information.
-Languages selections: pick any one from C#, Angualar or React, if using C#, HTML can be server side rendering. 
+Languages selections: pick any one from C#, Angular or React JS, if using C#, HTML can be server side rendering. 
 The application will need to connect web api endpoint:
 https://data.api.thelott.com/sales/vmax/web/data/lotto/luckylotteries/currentdraw
 or 
