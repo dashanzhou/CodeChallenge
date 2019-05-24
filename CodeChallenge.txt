@@ -2,15 +2,18 @@ This is a code challenge to build simple application or web page to display a Lo
 Languages selections: pick any one from C#, Angular or React JS, if using C#, HTML can be server side rendering. 
 Requirements:
 1. The application will need to connect web api endpoint:
-https://data.api.thelott.com/sales/vmax/web/data/lotto/luckylotteries/currentdraw or 
-https://data.api.thelott.com/sales/vmax/web/data/lotto/opendraws to get the lotto draw data and jackpot data, then display the OZlotto, Gold Lotto and Powerball.
+https://data.api.thelott.com/sales/vmax/web/data/lotto/latestresults to display the draw results, dividend 
+and  
+https://data.api.thelott.com/sales/vmax/web/data/lotto/opendraws to get the lotto draw data and jackpot data, 
 
-2. The information display in the web page requires to at least have Lottery product display name, 
+2. The products display should at least have OZlotto, Gold Lotto and Powerball.
+
+3. The information display in the web page requires to at least have Lottery product display name, 
 logo image, draw date, draw number and jackpack value (Div1Amount). 
 
-3. The application should have at least 2 unit testing cases built in. 
+4. The application should have at least 2 unit testing cases built in. 
 
-4. The code needs to committed into your github account with a bit readme document. 
+5. The code needs to committed into your github account with a bit readme document with the setup instructions from fresh new environment. 
 
 
 
