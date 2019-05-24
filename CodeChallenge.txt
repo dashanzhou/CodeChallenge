@@ -3,7 +3,7 @@ Languages selections: pick any one from C#, Angular or React JS, if using C#, HT
 Requirements:
 1. The application will need to connect web api endpoint:
 https://data.api.thelott.com/sales/vmax/web/data/lotto/latestresults to display the draw results, dividend 
-and  
+or  
 https://data.api.thelott.com/sales/vmax/web/data/lotto/opendraws to get the lotto draw data and jackpot data, 
 
 2. The products display should at least have OZlotto, Gold Lotto and Powerball.
