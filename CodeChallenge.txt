@@ -15,5 +15,7 @@ logo image, draw date, draw number and jackpack value (Div1Amount).
 
 5. The code needs to committed into your github account with a bit readme document with the setup instructions from fresh new environment. 
 
-
+6. Please refer the data api document for the usage of post request:
+- Latest Results: http://media.thelott.com/documentations/IData/Methods/GetLatestLotteriesResults.html
+- Open Draws: http://media.thelott.com/documentations/IData/Methods/GetOpenLotteriesDraws.html
 
